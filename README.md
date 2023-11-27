@@ -9,4 +9,4 @@ A straightforward way to produce this unlearned model is to retrain the model on
 
 ## 2. Approach
 
-We have gone beyond traditional fine-tuning methods by exploring the impact of sparsity enforcement on the unlearning process. Our experimentation involves the utilization of  structured as well as unstructured techniques, followed by unlearning by Lora finetuning in order to further reinforce the idea of sparsity as well as speed up the process of finetuning.
+Have gone beyond traditional fine-tuning methods by exploring the impact of sparsity enforcement on the unlearning process. Our experimentation involves the utilization of  structured as well as unstructured techniques, followed by unlearning by Lora finetuning in order to further reinforce the idea of sparsity as well as speed up the process of finetuning.
